@@ -132,7 +132,7 @@ export default function Portfolio() {
             {
               title: "AWS Serverless e-Commerce App (Ongoing)",
               desc: "Problem: scalable multi-store backend system. Architecture: event-driven microservices using AWS serverless stack. Stack: AWS Lambda, API Gateway, DynamoDB, SQS, SNS, EventBridge, Cognito, S3, SES, CloudWatch. Outcome: modular microservices with authentication, async processing, and scalable data persistence.",
-              link: "#",
+              link: "https://github.com/itsJohnDev/AWS-e-commerce",
             },
           ].map((project, i) => (
             <div
