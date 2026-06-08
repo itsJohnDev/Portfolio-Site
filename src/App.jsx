@@ -130,9 +130,14 @@ export default function Portfolio() {
               link: "https://github.com/itsJohnDev/Dotify-API",
             },
             {
-              title: "AWS Serverless e-Commerce App (Ongoing)",
+              title: "AWS Serverless e-Commerce App ",
               desc: "Problem: scalable multi-store backend system. Architecture: event-driven microservices using AWS serverless stack. Stack: AWS Lambda, API Gateway, DynamoDB, SQS, SNS, EventBridge, Cognito, S3, SES, CloudWatch. Outcome: modular microservices with authentication, async processing, and scalable data persistence.",
               link: "https://github.com/itsJohnDev/AWS-e-commerce",
+            },
+            {
+              title: "Thought Nest Full Stack App ",
+              desc: "Problem: Users often lose track of ideas, project concepts, and important thoughts due to lack of a centralized and organized system. Architecture: Full-stack client-server architecture with authentication and protected CRUD operations.",
+              link: "https://github.com/itsJohnDev/thought-nest-ui",
             },
           ].map((project, i) => (
             <div
