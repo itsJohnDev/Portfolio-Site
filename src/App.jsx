@@ -28,8 +28,8 @@ export default function Portfolio() {
           <p className="text-slate-400">Hello, I am</p>
           <h2 className="text-4xl md:text-6xl font-bold">John</h2>
           <p className="text-xl text-slate-300 max-w-2xl">
-            Backend / Cloud / DevOps engineer focused on building reliable,
-            scalable systems with clean operational simplicity.
+            Backend engineer focused on building reliable, scalable systems with
+            clean operational simplicity.
           </p>
 
           <div className="flex gap-4 pt-4">
