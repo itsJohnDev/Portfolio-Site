@@ -136,7 +136,7 @@ export default function Portfolio() {
             },
             {
               title: "Thought Nest Full Stack App ",
-              desc: "Problem: Users often lose track of ideas, project concepts, and important thoughts due to lack of a centralized and organized system. Architecture: Full-stack client-server architecture with authentication and protected CRUD operations.",
+              desc: "Problem: Users often lose track of ideas, project concepts, and important thoughts due to lack of a centralized and organized system. Architecture: Full-stack client-server architecture with authentication and protected CRUD operations. Stack: React, TypeScript, TanStack Router, React Query, Axios, Node.js, Express.js, MongoDB, Mongoose, JWT Authentication, Tailwind CSS. Outcome: Built a secure idea management platform with authentication, user-specific data isolation, protected routes, and complete CRUD functionality, allowing users to store, manage, and revisit thoughts efficiently for future projects or collaboration.",
               link: "https://github.com/itsJohnDev/thought-nest-ui",
             },
           ].map((project, i) => (
