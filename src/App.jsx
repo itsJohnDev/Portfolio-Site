@@ -28,8 +28,12 @@ export default function Portfolio() {
           <p className="text-slate-400">Hello, I am</p>
           <h2 className="text-4xl md:text-6xl font-bold">John</h2>
           <p className="text-xl text-slate-300 max-w-2xl">
-            Backend engineer focused on building reliable, scalable systems with
-            clean operational simplicity.
+            Full-stack developer with a strong frontend focus, experienced in
+            building practical, responsive web applications from the user
+            interface through the backend. Comfortable working with different
+            design styles and translating ideas into clean, functional
+            interfaces, while also handling APIs, business logic, and data
+            integration.
           </p>
 
           <div className="flex gap-4 pt-4">
@@ -117,17 +121,17 @@ export default function Portfolio() {
             {
               title: "Comfy Sloth (Frontend/Design App)",
               desc: "Comfy Sloth Furniture is a design-focused furniture e-commerce website built with React and styled-components. I handled the frontend implementation with a strong focus on the visual presentation, including layouts, typography, spacing, responsive behavior, product displays, navigation, and reusable styled components. The project allowed me to combine frontend development with hands-on design implementation, creating a polished and practical shopping experience while maintaining consistency across the different sections and screen sizes.",
-              link: "https://comfyslothfurnitures.netlify.app/"
+              link: "https://comfyslothfurnitures.netlify.app/",
             },
             {
               title: "Elena Joy Gallery(Frontend/Design App)",
               desc: "Elena Joy Photography is a personal photography portfolio website built from scratch using HTML and CSS. The site focuses on presenting the photographer's work through a clean, minimal layout with dedicated sections for an introduction, personal background, photography portfolio, and contact form. I focused on creating a visually appealing structure, clear navigation, responsive layouts, and a presentation that keeps the photography as the main focus of the page.",
-              link: "https://elenajoygallery.netlify.app/"
+              link: "https://elenajoygallery.netlify.app/",
             },
             {
               title: "Simply Recipe(Frontend/Design App)",
               desc: "Simply Cookify is a recipe website built with Gatsby, designed around a clean and content-focused browsing experience. I focused on presenting recipes in a simple, organized, and visually appealing layout, with clear navigation, category filtering, recipe cards, imagery, and readable recipe information. The project gave me experience designing a content-driven website where typography, spacing, visual hierarchy, and ease of navigation are important to the overall user experience. Rather than adding unnecessary visual elements, I aimed for a clean and practical design that keeps the recipes as the main focus.",
-              link: "https://simplycookify.netlify.app/"
+              link: "https://simplycookify.netlify.app/",
             },
             {
               title: "Flask GCP File Upload API",
