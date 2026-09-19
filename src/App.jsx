@@ -165,7 +165,7 @@ export default function Portfolio() {
                 href={project.link}
                 className="text-blue-400 text-sm mt-2 inline-block"
               >
-                GitHub Link
+                GitHub Link / Visit Site
               </a>
             </div>
           ))}
