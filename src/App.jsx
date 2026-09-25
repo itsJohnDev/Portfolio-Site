@@ -89,6 +89,9 @@ export default function Portfolio() {
             "Node.js",
             "System Design",
             "Observability (Logs / Metrics)",
+            "C#",
+            ".NET",
+            "ASP.NET",
             "NoSQL",
             "SQL",
             "Python",
@@ -118,11 +121,6 @@ export default function Portfolio() {
         <h3 className="text-2xl font-semibold mb-6">Projects</h3>
         <div className="grid md:grid-cols-2 gap-4">
           {[
-            {
-              title: "Comfy Sloth (Frontend/Design App)",
-              desc: "Comfy Sloth Furniture is a design-focused furniture e-commerce website built with React and styled-components. I handled the frontend implementation with a strong focus on the visual presentation, including layouts, typography, spacing, responsive behavior, product displays, navigation, and reusable styled components. The project allowed me to combine frontend development with hands-on design implementation, creating a polished and practical shopping experience while maintaining consistency across the different sections and screen sizes.",
-              link: "https://comfyslothfurnitures.netlify.app/",
-            },
             {
               title: "Elena Joy Gallery(Frontend/Design App)",
               desc: "Elena Joy Photography is a personal photography portfolio website built from scratch using HTML and CSS. The site focuses on presenting the photographer's work through a clean, minimal layout with dedicated sections for an introduction, personal background, photography portfolio, and contact form. I focused on creating a visually appealing structure, clear navigation, responsive layouts, and a presentation that keeps the photography as the main focus of the page.",
